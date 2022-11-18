@@ -5,7 +5,15 @@ We have learn Data Analytic & Data Science skill during 4 months.
 
 <h3> Spreadsheets </h3>
 <h3> SQL Database </h3>
+    Create small database and analyst data of Pizza shop.
 <h3> R Programming </h3>
+  <ul>
+    <li>
+      Pao ying chub game
+    </li>
+      This game is played by children and adults and is popular all over the world.Therefore I create mini game with R. <br>
+  </ul>
+  
 <h3> Data Transformation </h3>
 <h3> Data Visualization </h3>
 <h3> Statistics </h3>
