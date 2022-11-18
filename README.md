@@ -37,6 +37,16 @@ We have learn Data Analytic & Data Science skill during 4 months.
 <h3> Statistics </h3>
 <h3> Intro to 'Classical' Machine Learning </h3>
 <h3> Intro to Python Language </h3>
+    <ul>
+        <li>
+        Pao ying chub
+        </li>
+        Mini game with Python.
+        <li>
+        ATM
+        </li>
+        Simulate ATM menu.
+    </ul>
 <h3> Essential Python for Data Analyst </h3>
 <h3> Dashboard </h3>
 
