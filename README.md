@@ -11,7 +11,10 @@ We have learn Data Analytic & Data Science skill during 4 months.
     <li>
       Pao ying chub game
     </li>
-      This game is played by children and adults and is popular all over the world.Therefore I create mini game with R. <br>
+      This game is played by children and adults and is popular in the world.Therefore I create mini game with R. <br>
+    <li>
+      Chatbot Pizza shop
+    </li>
   </ul>
   
 <h3> Data Transformation </h3>
