@@ -23,11 +23,17 @@ We have learn Data Analytic & Data Science skill during 4 months.
 <h3> Data Transformation </h3>
     <ul> 
         <li>
-        Flight analysis with R
+        Flight data analysis with R
         </li>
     </ul>
 
 <h3> Data Visualization </h3>
+    <ul>
+        <li>
+        Diamond data analysis and visualization with R
+        </li>
+    </ul>
+
 <h3> Statistics </h3>
 <h3> Intro to 'Classical' Machine Learning </h3>
 <h3> Intro to Python Language </h3>
