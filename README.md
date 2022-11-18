@@ -4,8 +4,10 @@ We have learn Data Analytic & Data Science skill during 4 months.
 
 
 <h3> Spreadsheets </h3>
+
 <h3> SQL Database </h3>
     Create small database and analyst data of Pizza shop.
+    
 <h3> R Programming </h3>
   <ul>
     <li>
@@ -19,6 +21,12 @@ We have learn Data Analytic & Data Science skill during 4 months.
   </ul>
   
 <h3> Data Transformation </h3>
+    <ul> 
+        <li>
+        Flight analysis with R
+        </li>
+    </ul>
+
 <h3> Data Visualization </h3>
 <h3> Statistics </h3>
 <h3> Intro to 'Classical' Machine Learning </h3>
