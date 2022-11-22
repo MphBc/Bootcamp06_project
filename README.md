@@ -53,6 +53,10 @@ We have learn Data Analytic & Data Science skill during 4 months.
         API
         </li>
         request data from API and create Data frame
+        <li>
+        Machine learning
+        </li>
+        predict diabetes dataset
     </ul>
 <h3> Dashboard </h3>
 
