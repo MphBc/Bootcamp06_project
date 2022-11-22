@@ -48,6 +48,12 @@ We have learn Data Analytic & Data Science skill during 4 months.
         Simulate ATM menu.
     </ul>
 <h3> Essential Python for Data Analyst </h3>
+    <ul>
+        <li>
+        API
+        </li>
+        request data from API and create Data frame
+    </ul>
 <h3> Dashboard </h3>
 
 
