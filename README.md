@@ -63,7 +63,8 @@ We have learn Data Analytic & Data Science skill during 4 months.
         <li>
         Datastudio
         </li>
-        Nutrition of Cereal by Brands : https://datastudio.google.com/reporting/bc84cdca-cb55-471f-824c-2aed3a9a7271
+        Nutrition of Cereal by Brands : https://datastudio.google.com/reporting/bc84cdca-cb55-471f-824c-2aed3a9a7271 <br>
+        World petroleum : https://datastudio.google.com/reporting/85ab6069-6f50-4a74-9a09-d7d386d7358d
          <li>
         Tableau
         </li>
