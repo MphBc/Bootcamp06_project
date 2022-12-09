@@ -6,7 +6,7 @@ We have learn Data Analytic & Data Science skill during 4 months.
 <h3> Spreadsheets </h3>
 
 <h3> SQL Database </h3>
-    Create small database and analyst data of Pizza shop.
+    Create small database and analysis data of Pizza shop.
     
 <h3> R Programming </h3>
   <ul>
