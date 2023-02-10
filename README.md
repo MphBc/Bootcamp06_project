@@ -60,7 +60,7 @@ We have learn Data Analytic & Data Science skill during 4 months.
         <li>
         Analyzing K-12 Student Data for School Year 2021
         </li>
-        All public schools in California were shut down due to COVID-19. All students ended their 2020 school year in a remote learning setting. <br>
+        All public schools in California were shut down due to COVID-19. All students ended their 2020 school year in a remote learning setting.
         Some family can't afford laptop and internet,school district has budget to purchase laptop and internet for studenst to check out to use at home.
     </ul>
 <h3> Dashboard </h3>
